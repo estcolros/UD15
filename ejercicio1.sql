@@ -1,0 +1,21 @@
+INSERT into despachos (Numero, Capacidad) values (1,10);
+INSERT into despachos (Numero, Capacidad) values (2,10);
+INSERT into despachos (Numero, Capacidad) values (3,10);
+INSERT into despachos (Numero, Capacidad) values (4,10);
+INSERT into despachos (Numero, Capacidad) values (5,10);
+INSERT into despachos (Numero, Capacidad) values (6,10);
+INSERT into despachos (Numero, Capacidad) values (7,10);
+INSERT into despachos (Numero, Capacidad) values (8,10);
+INSERT into despachos (Numero, Capacidad) values (9,10);
+INSERT into despachos (Numero, Capacidad) values (10,10);
+
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4324583B', 'Juan', NUll, 1);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4324543B', 'Juann', '4324583B', 2);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4324553B', 'Juaan', '4324583B', 3);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4324283B', 'Jjuan', '4324583B', 4);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4324573B', 'Juuan', '4324583B', 5);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4321583B', 'Juaann', '4324583B', 6);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4924583B', 'Juuann', '4324583B', 7);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4624583B', 'Jjuann', '4324583B', 8);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4374583B', 'Jjuaan', '4324583B', 9);
+insert into directores(DNI,NomApels,DNIJefe,Despacho) VALUES ('4394583B', 'Jjuuuan', '4324583B', 10);
